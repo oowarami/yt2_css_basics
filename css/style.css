@@ -1,0 +1,110 @@
+body {
+	background-color: #D7D7D7;
+}
+
+/* IT BERRIES SECTION */
+.ITberries {
+	width: auto;
+	height: 310px;
+	background-color: #1D1D1D;
+	background-image: url(../images/ITberriesBanner/logoITB.svg);
+	background-repeat: no-repeat;
+	background-position-x: right;
+	background-size: 400px 475.27px;
+	color: white;
+
+	margin-top: -5px;
+}
+
+h2{
+	font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+	letter-spacing: 18.54%;
+
+	margin-left: 102px;
+	padding-top: 50px;
+}
+
+p {
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	text-align: justify;
+
+	margin-left: 102px;
+	width: 59.79%;;
+	height: 89px;
+}
+
+.invisibleButton {
+	margin-top: 50px;
+}
+
+.readButton {
+	font-family: "Montserrat", sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+
+	border-right: 2px solid white;
+  border-left: 2px solid white;
+
+	color: white;
+
+	margin-left: 102px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+/* ABOUT ME SECTION */
+.sectionHeaderDiv {
+display: flex;
+justify-content: center;
+}
+
+ .sectionHeader {
+	display:inline-block;
+	text-align: center;
+	letter-spacing: 35.54%;
+	border: 8px solid black;
+	padding: 10px;
+	margin-top: 80px;
+}
+
+
+.aboutMeP {
+	text-align: center;
+	font-weight: 400;
+
+	margin-top: 50px;
+	margin-left: 300px;
+}
+
+.invisibleButton2{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.exploreButton {
+	font-family: "Montserrat", sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+
+	border-right: 2px solid black;
+  border-left: 2px solid black;
+
+	color: black;
+
+	margin-left: 102px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.separatorBlack1{
+	margin-top: 75px;
+	margin-left: 100px;
+	text-align: center;
+}
